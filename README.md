@@ -16,3 +16,5 @@ They have contracted a consulting company to understand the factors on which the
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 
+# Evaluation
+<img width="1263" alt="Screenshot 2024-10-28 at 7 12 01 PM" src="https://github.com/user-attachments/assets/48bc9ac8-d9e9-4f04-83b1-3d82bb299074">
